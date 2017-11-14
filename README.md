@@ -13,3 +13,4 @@ we shall see where this goes!
 - throw out stop words?
 - try and hook it up to subreddit simulator
   -- use the subreddit's bots top comments to predict a top comment
+- do some sort of training to try and generate the top commments
