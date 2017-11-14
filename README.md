@@ -11,3 +11,5 @@ we shall see where this goes!
 - predict top comment based on Markov Assumption Model
 - analyze what the language looks like in regards to the topic of the post
 - throw out stop words?
+- try and hook it up to subreddit simulator
+  -- use the subreddit's bots top comments to predict a top comment
