@@ -102,3 +102,6 @@ ENV/
 
 #PyCharm
 .idea/
+
+# secrets
+asset/secrets.py
