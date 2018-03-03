@@ -1,5 +1,10 @@
-# python_project
+# Reddit Comment Generator
 we shall see where this goes!
+
+
+
+
+Things done / to be done:
 
 - get all top comments on a post
 - get all comments on a post
