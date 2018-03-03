@@ -1,5 +1,5 @@
 import praw
-from secrets import client_secret, client_id, user_id, user_password
+from assets.secrets import client_secret, client_id, user_id, user_password
 
 reddit = praw.Reddit(client_id=client_id,
                      client_secret=client_secret,
